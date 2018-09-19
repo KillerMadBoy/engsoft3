@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ubuntu/workspace/Exercicios/Lista5/Ex1/target/scala-2.11/aula5_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex1/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex1/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StartActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex1/target/scala-2.11/classes/StartActor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	StartActor$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex1/target/scala-2.11/classes/StartActor$$anonfun$receive$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

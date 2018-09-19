@@ -1,0 +1,25 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/aula5_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ponger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Ponger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Main$$anonfun$main$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pinger$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Pinger$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pinger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Pinger.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ponger$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Ponger$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Exercicios/Lista5/Ex2/target/scala-2.11/classes/Main$.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
